@@ -1,0 +1,179 @@
+{
+  "seller": [
+    {
+      "name": "Zuber",
+      "password": "123",
+      "email": "zuber@tigale.com",
+      "id": 1
+    },
+    {
+      "name": "Tasmiya",
+      "password": "123",
+      "email": "zuber@tigale.com",
+      "id": 2
+    },
+    {
+      "name": "Mangoes",
+      "password": "123",
+      "email": "man@goes.com",
+      "id": 3
+    },
+    {
+      "name": "Salt",
+      "password": "123",
+      "email": "SALT@GM.COM",
+      "id": 4
+    },
+    {
+      "name": "Zuber Tigale",
+      "password": "123",
+      "email": "tigale@test.com",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 14",
+      "price": "100",
+      "color": "blue",
+      "category": "mobiles",
+      "description": "Very Good Phone",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-silver_AV1_GEO_EMEA?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1662060528101",
+      "id": 1
+    },
+    {
+      "name": "HP Laptop",
+      "price": "70000",
+      "color": "white",
+      "category": "laptop",
+      "description": "Very Good Phone",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/6/D/6D4K2PA-1_T1656564540.png",
+      "id": 4
+    },
+    {
+      "name": "Adidas Shoe",
+      "price": "1400",
+      "color": "Black",
+      "category": "Footwear",
+      "description": "It is an adidas product",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/49130f4b59b44ffbb7bfadb900ae5c18_9366/Adi_Zoom_Shoes_Black_EY2931_01_standard.jpg",
+      "id": 5
+    },
+    {
+      "name": "Realme Watch 3",
+      "price": "1299",
+      "color": "Black",
+      "category": "Watch",
+      "description": "Realme smart watch",
+      "image": "https://image01.realme.net/general/20220711/1657521680591.png.webp",
+      "id": 6
+    },
+    {
+      "name": "Shirt",
+      "price": "1000",
+      "color": "Black",
+      "category": "Cloth",
+      "description": "Good Shirt",
+      "image": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0a%2F0b%2F0a0badc54e57b7b408e22fcd924ee25c0ecc428b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "Zuber Tigale",
+      "email": "zuber.tigale",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Mangoes",
+      "email": "man@goes.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Khad",
+      "email": "khadija@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "Zuber Tigale",
+      "email": "zubertigale@ymail.com",
+      "password": "123456",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "name": "Iphone 14",
+      "price": "100",
+      "color": "blue",
+      "category": "mobiles",
+      "description": "Very Good Phone",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-silver_AV1_GEO_EMEA?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1662060528101",
+      "quantity": 3,
+      "productId": 1,
+      "userId": null,
+      "id": 3
+    },
+    {
+      "name": "HP Laptop",
+      "price": "700000",
+      "color": "white",
+      "category": "laptop",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/6/D/6D4K2PA-1_T1656564540.png",
+      "description": "Very Good Phone",
+      "quantity": 1,
+      "productId": 4,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "Adidas Shoe",
+      "price": "1400",
+      "color": "Black",
+      "category": "Footwear",
+      "description": "It is an adidas product",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/49130f4b59b44ffbb7bfadb900ae5c18_9366/Adi_Zoom_Shoes_Black_EY2931_01_standard.jpg",
+      "quantity": 7,
+      "productId": 5,
+      "userId": null,
+      "id": 5
+    },
+    {
+      "name": "Iphone 14",
+      "price": "100",
+      "color": "blue",
+      "category": "mobiles",
+      "description": "Very Good Phone",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-silver_AV1_GEO_EMEA?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1662060528101",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 1,
+      "id": 6
+    },
+    {
+      "name": "Iphone 14",
+      "price": "100",
+      "color": "blue",
+      "category": "mobiles",
+      "description": "Very Good Phone",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-silver_AV1_GEO_EMEA?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1662060528101",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 1,
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "email": "zubertigale@ymail.com",
+      "address": "64, MUKHAJIR MARG, WARD NO. 8",
+      "contact": "9893520430",
+      "totalPrice": 6200,
+      "userId": 3,
+      "id": 3
+    }
+  ]
+}
